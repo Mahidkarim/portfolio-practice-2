@@ -1,0 +1,81 @@
+.open-sans {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+
+.heading {
+  font-size: 45px;
+  font-weight: 800px;
+}
+
+.navigation {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 226px;
+  margin-right: 230px;
+}
+
+/* navigation bar */
+.navigation li {
+  list-style: none;
+}
+
+.navigation li a {
+  text-decoration: none;
+  color: black;
+}
+
+.nav-bar {
+  font-size: 20px;
+}
+
+.duplicate-color {
+  background-color: #FD6E0A;
+  color: #FFFFFF;
+  height: 65px;
+  width: 150px;
+  border-radius: 5px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+/* 2nd er kaj */
+
+.foster {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 230px;
+  margin-right: 38px;
+  align-items: center;
+}
+
+/* foster,thik kore */
+.hi {
+  font-size: 45px;
+  color: #D9D9D9;
+}
+
+.mary {
+  font-size: 85px;
+  color: #181818;
+}
+
+.para {
+  font-size: 20px;
+  color: #757575;
+  width: 585px;
+}
+
+.con {
+  width: 160px;
+  height: 64px;
+  font-size: 20px;
+  font-weight: bold;
+  color: #FD6E0A;
+  border-radius: 5px;
+}
